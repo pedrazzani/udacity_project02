@@ -55,7 +55,8 @@
                     android:id="@+id/teamA_gol"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:gravity="center" />
+                    android:gravity="center"
+                    android:textSize="24sp" />
 
             </LinearLayout>
 
@@ -187,7 +188,8 @@
                     android:id="@+id/teamB_gol"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:gravity="center" />
+                    android:gravity="center"
+                    android:textSize="24sp"/>
 
             </LinearLayout>
 
@@ -208,7 +210,8 @@
                     android:id="@+id/teamB_falta"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:gravity="center" />
+                    android:gravity="center"
+                    />
 
             </LinearLayout>
 
