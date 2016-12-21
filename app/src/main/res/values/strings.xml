@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Score Keeper Soccer</string>
+
+    <string name="reset_label_button">Reset</string>
+    <string name="_0">0</string>
+    <string name="teamA_text_view">Time 01</string>
+    <string name="teamB_text_view">Time 02</string>
+    <string name="gol">GOL</string>
+    <string name="falta">FALTA</string>
+    <string name="cart_amar">CART. AMAR.</string>
+    <string name="cart_verm">CART. VERM.</string>
+</resources>
